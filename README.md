@@ -2,6 +2,14 @@
 
 A comprehensive Flutter example demonstrating the **importance and power of InputFormatters** in TextField widgets. This project shows the critical difference between `TextInputType`, `validation`, and `inputFormatters` - and why InputFormatters should be your go-to solution for controlling text input.
 
+## 📹 Video Tutorial
+
+Watch the complete video explanation on YouTube:
+
+**[InputFormatters vs Validation vs TextInputType in Flutter (What You MUST Know)](https://www.youtube.com/watch?v=MWPLvoaxuNg)**
+
+This video walks through all the concepts and live demonstrations of each approach.
+
 ## 🎯 Project Overview
 
 This example application presents **3 different scenarios** where input formatting is essential, comparing three approaches to input control:
